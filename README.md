@@ -124,22 +124,10 @@ For more details on using BentoML, refer to the [BentoML documentation](https://
 
 ---
 
-## 📞 Contact
-
-For any inquiries or issues, please open an issue on the GitHub repository or contact the project maintainer.
-
----
-
 ## 🔄 Acknowledgements
 
 - [PyTorch](https://pytorch.org/) - The deep learning framework used.
 - [BentoML](https://docs.bentoml.org/en/latest/) - For model serving and deployment.
 - [AWS](https://aws.amazon.com/) - For cloud storage and computing resources.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
